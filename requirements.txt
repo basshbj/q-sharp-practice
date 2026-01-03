@@ -1,5 +1,6 @@
-qsharp 
-azure-quantum
-ipykernel
-ipympl
-jupyterlab
+#qsharp 
+#azure-quantum
+qdk[all]
+#ipykernel
+#ipympl
+#jupyterlab
